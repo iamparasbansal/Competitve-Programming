@@ -13,17 +13,29 @@ typedef long long ll;
 typedef unsigned long long ull;
 typedef pair<int, int> ii;
 typedef pair<int, ii> iii;
+typedef vector<int> vi;
 /*ll gcd(ll a, ll b)
 {
     if(b == 0)  return a;
     return gcd(b, a%b);
 }*/
+/*void swap (ll a, ll b)
+{
+	a=a^b;
+	b=b^a;
+	a=a^b;
+	return;
+}*/
 //int CheckPrime[]={0,0,1,1,0,1,0,1,0,0,0,1,0,1,0,0,0,1,0,1,0} //0 to 20
+
+
 
 void solve()
 {
 	
 }
+
+
 
 int32_t main()
 {
